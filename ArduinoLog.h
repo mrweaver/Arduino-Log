@@ -382,4 +382,4 @@ private:
 #endif
 };
 
-extern Logging Log;
+extern Logging Debug;
