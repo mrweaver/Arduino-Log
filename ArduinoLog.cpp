@@ -263,4 +263,4 @@ void Logging::printFormat(const char format, va_list *args) {
 #endif
 }
  
-Logging Log = Logging();
+Logging Debug = Logging();
